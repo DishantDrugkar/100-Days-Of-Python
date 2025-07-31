@@ -6,7 +6,7 @@ This repository documents my daily progress, code, and concepts as I commit to l
 ---
 
 ## 📅 Start Date:
-`[Replace with your start date]`
+`20-07-2025`
 
 ## 🎯 Goal:
 To become proficient in Python by learning consistently for 100 days through hands-on coding, building mini-projects, solving problems, and understanding core programming concepts.
