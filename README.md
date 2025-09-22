@@ -26,4 +26,3 @@ I will cover a wide range of Python topics, including but not limited to:
 
 ---
 
-## 📂 Repository Structure:
