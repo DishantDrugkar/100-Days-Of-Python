@@ -22,7 +22,5 @@ I will cover a wide range of Python topics, including but not limited to:
 - ✅ Day 61-70: Working with APIs & JSON
 - ✅ Day 71-80: Web Scraping with BeautifulSoup/Requests
 - ✅ Day 81-90: Python for Automation (Scripting, OS module)
-- ✅ Day 91-100: Final Projects (CLI tools, web apps, or automation scripts)
-
----
+- ✅ Day 91-100: Final Projects
 
