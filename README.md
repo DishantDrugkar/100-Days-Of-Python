@@ -6,7 +6,7 @@ This repository documents my daily progress, code, and concepts as I commit to l
 ---
 
 ## 🎯 Goal:
-To become proficient in Python by learning consistently for 100 days through hands-on coding, building mini-projects, solving prob
+To become proficient in Python by learning consistently for 100 days 
 
 ---
 
