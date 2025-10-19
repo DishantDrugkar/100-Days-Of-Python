@@ -1,4 +1,4 @@
-#  100 Days of Python - Learning Journey 🚀
+#  100 Days of Python - Learning Journey 
 
 Welcome to my **100 Days of Python** journey!  
 This repository documents my daily progress, code, and concepts as I commit to learning and mastering Python programming over the next 100 days.
